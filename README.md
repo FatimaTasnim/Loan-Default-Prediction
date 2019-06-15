@@ -2,8 +2,8 @@
 Dataset is collected from [here](https://www.kaggle.com/c/loan-default-prediction).
 
 # Approach:
-- Stratified K-Fold crpss validation
-- Model: LGBM. (Data tuned until the best accuracy)
+- Stratified K-Fold cross validation
+- Model: LGBM.
 # Accuracy:
 90%
 
